@@ -15,11 +15,10 @@
 #  File Name: CMakeLists.txt
 #  Description: CMake configuration file for Bitmap2Hex application
 # 
-#  Last update: 2023-06-01
+#  Last update: 2026-10-12
 # 
 #--------------------------------------------------------------------------------
 
-cmake_minimum_required(VERSION 3.0)
 project(bitmap2hex)
 
 set(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}")
