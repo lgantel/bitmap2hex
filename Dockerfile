@@ -1,7 +1,7 @@
 # Dockerfile for bitmap2hex project
-# Uses Ubuntu 26.04, installs wxWidgets 3.2 (or latest) and CMake
+# Uses Ubuntu 24.04, installs wxWidgets 3.2 (or latest) and CMake
 
-FROM ubuntu:26.04
+FROM ubuntu:24.04
 
 # Set environment variables
 ENV DEBIAN_FRONTEND=noninteractive
